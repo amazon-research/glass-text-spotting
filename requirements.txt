@@ -9,3 +9,4 @@ polygon3
 plotly
 rasterio
 levenshtein
+shapely
