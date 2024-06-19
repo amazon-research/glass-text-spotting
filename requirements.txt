@@ -2,7 +2,7 @@ numpy>=1.19.5
 matplotlib
 iopath
 pyclipper
-sklearn
+scikit-learn
 pyclipper
 imageio-ffmpeg
 polygon3
