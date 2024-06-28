@@ -10,7 +10,7 @@ from detectron2.data import detection_utils as utils
 from detectron2.data import transforms as T
 from detectron2.structures import PolygonMasks, BoxMode
 
-from .text_encoder import TextEncoder
+from ..modeling.recognition.text_encoder import TextEncoder
 from ..utils.common_utils import rgb2grey
 
 
